@@ -11,7 +11,8 @@ public class Logger
     private volatile LogLevel logLevel;
     private final List<LogWriter> logWriters = new ArrayList<>();
     private static final LogsQueueManager loggersMessageManager = LogsQueueManager.getInstance();
-    private static final SimpleDateFormat loggerDateFormat = new SimpleDateFormat("dd-MM-yyyy HH:mm:ss:SSS");
+    private static final String DATE_FORMAT_PATTERN = "dd-MM-yyyy HH:mm:ss:SSS";
+    private static final SimpleDateFormat loggerDateFormat = new SimpleDateFormat(DATE_FORMAT_PATTERN);
 
     public Logger(final String className)
     {

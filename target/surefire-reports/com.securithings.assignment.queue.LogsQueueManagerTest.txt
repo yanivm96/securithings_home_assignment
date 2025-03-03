@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.securithings.assignment.queue.LogsQueueManagerTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.881 s -- in com.securithings.assignment.queue.LogsQueueManagerTest

@@ -25,3 +25,15 @@ git clone https://github.com/yanivm96/securithings_home_assignment.git
 cd securithings_home_assignment
 mvn clean compile exec:java
 ```
+
+## Configuration
+
+You can change the logs folder output inside the `config.properties` file located in the `src/resources` directory.
+
+## Usage
+
+After configuring the project, you can run it using Maven. The application will start and log messages to both the console and the specified log file.
+
+```bash
+mvn exec:java
+```
