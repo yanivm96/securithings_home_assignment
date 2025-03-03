@@ -8,8 +8,8 @@ This project is a logging system that includes various components such as logger
 
 Before you begin, ensure you have met the following requirements:
 
-- Java Development Kit (JDK) 17 or higher
-- Apache Maven 3.6.3 or higher
+- Java Development Kit (JDK) 23 or higher
+- Apache Maven 3.9.9 or higher
 - Git
 
 ## Installation
@@ -36,4 +36,12 @@ After configuring the project, you can run it using Maven. The application will 
 
 ```bash
 mvn exec:java
+```
+
+## Running Tests
+
+To run the tests for this project, use the following Maven command:
+
+```bash
+mvn test
 ```
