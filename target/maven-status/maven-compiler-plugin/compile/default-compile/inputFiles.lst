@@ -1,0 +1,8 @@
+C:\Users\yaniv\Desktop\home-assignment\src\main\java\com\securithings\assignment\app\Main.java
+C:\Users\yaniv\Desktop\home-assignment\src\main\java\com\securithings\assignment\logger\Logger.java
+C:\Users\yaniv\Desktop\home-assignment\src\main\java\com\securithings\assignment\logger\LoggerMessage.java
+C:\Users\yaniv\Desktop\home-assignment\src\main\java\com\securithings\assignment\logger\LogLevel.java
+C:\Users\yaniv\Desktop\home-assignment\src\main\java\com\securithings\assignment\queue\LogsQueueManager.java
+C:\Users\yaniv\Desktop\home-assignment\src\main\java\com\securithings\assignment\writers\ConsoleLogWriter.java
+C:\Users\yaniv\Desktop\home-assignment\src\main\java\com\securithings\assignment\writers\FileLogWriter.java
+C:\Users\yaniv\Desktop\home-assignment\src\main\java\com\securithings\assignment\writers\LogWriter.java

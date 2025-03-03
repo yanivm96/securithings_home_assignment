@@ -1,0 +1,8 @@
+com\securithings\assignment\logger\LoggerMessage.class
+com\securithings\assignment\logger\LogLevel.class
+com\securithings\assignment\writers\ConsoleLogWriter.class
+com\securithings\assignment\writers\FileLogWriter.class
+com\securithings\assignment\logger\Logger.class
+com\securithings\assignment\writers\LogWriter.class
+com\securithings\assignment\app\Main.class
+com\securithings\assignment\queue\LogsQueueManager.class
